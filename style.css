@@ -18,3 +18,10 @@ p{
     text-align: center;
     color: white;
 }
+.cabecalho{
+    background-color: purple;
+    display: flex;
+}
+.logoimg{
+    margin-left: 120px;
+}
