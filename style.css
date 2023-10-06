@@ -19,9 +19,21 @@ p{
     color: white;
 }
 .cabecalho{
-    background-color: purple;
+    background-color: rgb(212, 129, 212);
     display: flex;
 }
 .logoimg{
     margin-left: 120px;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.itemlistacabecalho{
+list-style: none;
+text-transform: uppercase;
+color:purple;
+font-size: 30px;
+padding-left: 15px;
 }
